@@ -28,7 +28,7 @@
 ## ⚙️ Installation
 
 ```bash
-https://github.com/Anonymousrdc404/traceiplogo.git
+git clone https://github.com/Anonymousrdc404/traceiplogo.git
 cd ipwhite.sh
 chmod +x ipwhite.sh
 ./ipwhite.sh
