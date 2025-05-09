@@ -28,10 +28,10 @@
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/anonymous404/trace-loc
-cd trace-loc
-chmod +x trace-loc.sh
-./trace-loc.sh
+https://github.com/Anonymousrdc404/traceiplogo.git
+cd ipwhite.sh
+chmod +x ipwhite.sh
+./ipwhite.sh
 
 📦 Dépendances
 
