@@ -1,2 +1,49 @@
-# traceiplogo
-IP Tracker - White404  Bienvenue sur IP Tracker - White404, un outil développé par le groupe Anonymous404 qui permet de récupérer et de localiser des informations liées aux adresses IP. 
+# 🛰️ TRACE LOC - IP Tracker & Network Toolkit
+
+> Script avancé de tracking d’adresses IP, d’analyse réseau, et de scanning, conçu pour les pentesters, les passionnés de cybersécurité, et les membres de l’underground.
+
+---
+
+## 📌 Description
+
+**TRACE LOC** est un outil tout-en-un pour la surveillance réseau, la géolocalisation IP, et la reconnaissance passive. Le script est écrit en **bash** avec une interface stylisée en ASCII art, et comprend de multiples modules puissants, tout en restant léger et portable.
+
+🧑‍💻 Développé par : `WHITE404`  
+🎭 Groupe : `ANONYMOUS404`
+
+---
+
+## 🧰 Fonctionnalités
+
+- 🌍 Afficher votre IP publique
+- 🛰️ Géolocaliser une adresse IP (via `ipinfo.io`)
+- 🧾 Voir vos interfaces et IP locales
+- 🔍 WHOIS sur une IP ou un domaine
+- 📡 Pinger une cible (test de connectivité)
+- 🧭 Traceroute jusqu’à la cible
+- 🚪 Scan de ports rapides avec `nmap`
+
+---
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/anonymous404/trace-loc
+cd trace-loc
+chmod +x trace-loc.sh
+./trace-loc.sh
+
+📦 Dépendances
+
+Installe-les si besoin :
+
+sudo apt install curl jq whois traceroute nmap -y
+
+🎨 Capture d'écran
+
+████████╗██████╗  █████╗  ██████╗███████╗     ██╗      ██████╗  ██████╗  ██████╗ 
+╚══██╔══╝██╔══██╗██╔══██╗██╔════╝██╔════╝     ██║     ██╔═══██╗██╔════╝ ██╔═══██╗
+   ██║   ██████╔╝███████║██║     █████╗       ██║     ██║   ██║██║  ███╗██║   ██║
+   ██║   ██╔═══╝ ██╔══██║██║     ██╔══╝       ██║     ██║   ██║██║   ██║██║   ██║
+   ██║   ██║     ██║  ██║╚██████╗███████╗     ███████╗╚██████╔╝╚██████╔╝╚██████╔╝
+   ╚═╝   ╚═╝     ╚═╝  ╚═╝ ╚═════╝╚══════╝     ╚══════╝ ╚═════╝  ╚═════╝  ╚══
