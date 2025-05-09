@@ -1,0 +1,29 @@
+Licence MIT (Version H4CK3R)
+
+Copyright (c) 2025 WHITE404 - ANONYMOUS404
+
+L'autorisation est accordée, gratuitement, à toute personne obtenant une copie
+de ce logiciel et des fichiers de documentation associés (le "Logiciel"),
+d'utiliser, copier, modifier, fusionner, publier et/ou distribuer ce Logiciel
+à des fins **éducatives** ou de **pentesting éthique uniquement**, sous réserve
+des conditions suivantes :
+
+1. Le copyright ci-dessus ainsi que cet avis d’autorisation doivent être inclus
+   dans toutes les copies ou portions substantielles du Logiciel.
+
+2. Le nom **"WHITE404"** et le groupe **"ANONYMOUS404"** doivent être crédités
+   dans tout fork public ou toute redistribution.
+
+3. Le Logiciel **ne doit PAS** être utilisé pour :
+   - des activités blackhat, malveillantes ou illégales,
+   - de la surveillance ou des atteintes à autrui,
+   - de l’espionnage gouvernemental ou d’entreprise (sauf si c’est consenti 😈)
+
+4. L’auteur décline **toute responsabilité** en cas de dégâts, de poursuites
+   judiciaires ou de retour de karma liés à l’usage ou au mauvais usage
+   de ce Logiciel.
+
+LE LOGICIEL EST FOURNI "EN L'ÉTAT", SANS AUCUNE GARANTIE, EXPLICITE OU IMPLICITE.  
+**UTILISEZ-LE À VOS PROPRES RISQUES.**
+
+Reste furtif. Reste libre. 🖤
